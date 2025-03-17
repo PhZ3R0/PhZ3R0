@@ -1,6 +1,8 @@
-# Hi there 👋
+# Good Night
 **`dev`**
 <!--
+I'm a indie webdev aiming to be a full-stack dev, my goal is to turn everything i work on in the better  version it can be, normally working in sideprojects or small things like modding games and small websites for enterprises. so this profile will be way better in 6m/yrs.
+
 **PhZ3R0/PhZ3R0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
